@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_archived_event">ArchivedEventActivity</string>
+    <string name="add_button">Add an Event</string>
+    <string name="remove_button">Remove selected Events</string>
+    <string name="archive_button">Archive Selected Events</string>
+    <string name="title_activity_summary">Summary</string>
+
+</resources>
+

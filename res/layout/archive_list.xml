@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/arch_list"
+        android:layout_width="match_parent"
+        android:layout_height="201dp"
+        android:layout_weight="0.87" >
+    </ListView>
+
+    <Button
+        android:id="@+id/unarchive_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Unarchive events" />
+
+    <Button
+        android:id="@+id/remove_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove selected item" />
+
+</LinearLayout>

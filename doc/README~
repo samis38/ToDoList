@@ -1,0 +1,96 @@
+To Do List: events management
+
+Copyright (C) 2014 Xiaocong Zhou xiaocong@ualberta.ca
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+============================How to use the app==================================
+To install the app, you must have a smart phone or other android devices with an
+systom above android 2.2.
+When a user run the app, an input bar and 4 buttons will be shown on the screen.
+
+To add a new event into your to-do list, you need to:
+	1.type your event content in the input bar
+	2.press the "Add an Event" button
+
+To remove one or mutiple events from your current to-do list, you need to:
+	1.give a short single click on the event in the current to-do list to 
+	  select the event you want to delete
+	2.If you select a wrong event, you can give another short single click on
+	  the selected event.
+	3.The selected event's backgroud color will change to CYAN, otherwise it
+	  should be blue.
+	4.After selceting the events, please click the "Remove selected Events"
+	  button.
+
+To archive one or mutiple events, you need to:
+	1.give a short single click on the event in the current to-do list to 
+	  select the event you want to delete
+	2.If you select a wrong event, you can give another short single click on
+	  the selected event.
+	3.The selected event's backgroud color will change to CYAN, otherwise it
+	  should be blue.
+	4.After selceting the events, please click the "Archive Selected Events"
+	  button.
+	5.Then a new window include all archived events will be displayed.
+	6.If you want to return the current to-do list, just use the back button
+	  at the bottom left corner of the phone
+
+To show the summary of amount of checked and unchecked event in your lists, you
+need:
+	1.click the "See Summay" button.
+	2.Then, a new window with all summary you need will be displayed.
+
+To unarchoive an archived event, you need:
+	1.click the "Archive Selected Events" button
+	2.Then you will enter your archived event list
+	3.give a short single click on the event in the current to-do list to 
+	  select the event you want to delete
+	4.If you select a wrong event, you can give another short single click on
+	  the selected event.
+	5.The selected event's backgroud color will change to CYAN, otherwise it
+	  should be blue.
+	6.After selceting the events, please click the "Unarchive events"
+	  button.
+	7.Then, the selected event(s) will be moved out of the current list to the
+	  to-do list.
+
+To remove an archived event, you need:
+	1.click the "Archive Selected Events" button
+	2.Then you will enter your archived event list
+	3.give a short single click on the event in the current to-do list to 
+	  select the event you want to delete
+	4.If you select a wrong event, you can give another short single click on
+	  the selected event.
+	5.The selected event's backgroud color will change to CYAN, otherwise it
+	  should be blue.
+	6.After selceting the events, please click the "Remove selected item"
+	  button.
+
+
+
+
+
+
+
+
+
+============================Discussion with=====================================
+Discussed with: Anni Dai, Bicheng Yan
+
+============================About Me============================================
+Xiaocong Zhou, a student of the University of Alberta.
+Student ID: 1281462
+Course Section: CMPUT 301 Fa14 - INTRO TO SOFTWARE
+Introductor: Abram Hindle
+Date: Sep-26-2014, 14:21pm.
+
